@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+​I am an Informatics student passionate about Software Engineering and Data Analysis. Driven by a love for technology, writing, and problem-solving, I focus on building efficient database designs, UML modeling, and Java development to deliver functional software solutions.
+
 <!--
 **miawmeow1/miawmeow1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
