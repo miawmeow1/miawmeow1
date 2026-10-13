@@ -1,19 +1,23 @@
-## Hi there 👋
+### Hi there 👋
 
-​I am an Informatics student passionate about Software Engineering and Data Analysis. Driven by a love for technology, writing, and problem-solving, I focus on building efficient database designs, UML modeling, and Java development to deliver functional software solutions.
+I am an Informatics student at Institut Teknologi Insan Cendekia Mandiri, Sidoarjo, passionate about Software Engineering and Data Analysis. Driven by a love for technology, creative writing, and problem-solving, I focus on building efficient database designs, system modeling, and developing functional software solutions.
 
-<!--
-**miawmeow1/miawmeow1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+- **💻 Software Development & Coding:** Building web and mobile interfaces using HTML, CSS, JavaScript, PHP, Laravel, and React Native Expo.
+- **📊 Data Analysis & Database Design:** Executing SQL queries and relational database operations using MySQL, phpMyAdmin, HeidiSQL, and SAP PowerDesigner.
+- **✍️ Content & Creative Writing:** Crafting technical reports, journals, short stories, and copywriting with a blend of structure and creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
--->
+### 🎮 Beyond the Code
+When I'm not studying or writing code, you can find me:
+- Reading books and writing journals/short stories.
+- Playing Steam games and exploring immersive worlds.
+- Exploring new tech stacks and refining my design aesthetics.
+
+---
+
+📫 **Let's connect:**
+- **Email:** [anisanur01767@gmail.com](mailto:anisanur01767@gmail.com)
