@@ -1,50 +1,191 @@
-<h1 align="center">Hi There 👋, I'm MiawMeow1</h1>
-<h3 align="center">Informatics Student | Aspiring Software Engineer | Data Enthusiast I am an Informatics student at Institut Teknologi Insan Cendekia Mandiri, Sidoarjo, Indonesia, passionate about Software Engineering, Data Analysis, and Technology. Driven by curiosity, creativity, and problem-solving, I enjoy designing databases, modeling information systems, developing functional applications, and exploring how technology can solve real-world problems. I believe that learning technology is not just about writing code, but also about understanding problems, building solutions, and continuously improving.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miawmeow1&label=Profile%20views&color=0e75b6&style=flat" alt="miawmeow1" /> </p>
+# 👋 Hi There! I'm MiawMeow1
 
-### 🚀 What I Do
-- **💻 Software Development & Coding:** Building web and mobile interfaces using HTML, CSS, JavaScript, PHP, Laravel, and React Native Expo.
-- **📊 Data Analysis & Database Design:** Executing SQL queries and relational database operations using MySQL, phpMyAdmin, HeidiSQL, and SAP PowerDesigner.
-- **✍️ Content & Creative Writing:** Crafting technical reports, journals, short stories, and copywriting with a blend of structure and creativity.
+<h3 align="center">
+  Informatics Student | Aspiring Software Engineer | Data Enthusiast
+</h3>
 
----
-
-- 🍜 Music Spotify VIP [A Space Template Spotify](https://github.com/miawmeow1/Playlist-Spotify-Music)
-
-- 🌱 I’m currently learning **Laravel & Backend Development React Native Expo Software Engineering Database Management & SQL Data Analysis UI/UX Design**
-
-- 🌙 Playlist Joox Music [A Playlist Joox Music](https://github.com/miawmeow1/Playlist-Joox-Music)
-
-- 🎂 Happy Birthday To Me 🧕🏼 [A Personal Happy Birday Card Template](https://github.com/miawmeow1/Happy-Birtday-To-Me)
-
-- 👨‍💻 All of my projects are available at [https://github.com/miawmeow1](https://github.com/miawmeow1)
-
-- 💬 Ask me about **When I'm not studying or writing code, you can find me: 📚 Reading books and exploring new ideas. ✍️ Writing journals and short stories. 🎮 Playing Steam games and exploring immersive worlds. 🎨 Exploring creative design and digital illustration. 🌱 Learning new technologies and improving my skills.**
-
-- 📫 How to reach me **anisanur01767@gmail.com**
-
-- ⚡ Fun fact **"Keep learning, keep creating, and let every project become part of your growth." ✨**
-
----
-
-### 🎮 Beyond the Code
-When I'm not studying or writing code, you can find me:
-- Reading books and writing journals/short stories.
-- Playing Steam games and exploring immersive worlds.
-- Exploring new tech stacks and refining my design aesthetics.
-
----
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/coffeweekend24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/coffeweekend24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/an-nisaa-nurrahman-536656314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/an-nisaa-nurrahman-536656314/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/anisa.nur.7583992/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/anisa.nur.7583992/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/inmekitty.core/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/inmekitty.core/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@zepekasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@zepekasa" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=miawmeow1&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/miawmeow1?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miawmeow1&" alt="miawmeow1" /></p>
+## 🌷 About Me
+
+Hello! I'm an Informatics student at **Institut Teknologi Insan Cendekia Mandiri, Sidoarjo, Indonesia**.
+
+I'm passionate about **Software Engineering, Data Analysis, Database Design, and Creative Technology**. I enjoy exploring how technology works, analyzing problems, designing structured systems, and transforming ideas into functional digital experiences.
+
+Beyond programming, I have an interest in creative writing, storytelling, digital illustration, and visual aesthetics.
+
+I believe that technology is not only about writing code, but also about understanding problems, creating meaningful solutions, and continuously growing through experience.
+
+---
+
+## 🚀 What I Do
+
+- 💻 **Software Development** — Building web interfaces and exploring application development using HTML, CSS, JavaScript, PHP, Laravel, and React Native Expo.
+- 📊 **Data Analysis & Database Design** — Working with SQL queries, relational database structures, and database management.
+- 🏗️ **System Analysis & Modeling** — Exploring system requirements, information system architecture, and database modeling.
+- ✍️ **Creative & Technical Writing** — Creating technical documentation, academic reports, journals, short stories, and copywriting.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages & Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,c,cpp" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,bootstrap" />
+</p>
+
+### 🗄️ Database & Data Management
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### 🎨 Design & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,blender,git,github,vscode,arduino" />
+</p>
+
+### 📚 Other Technologies I've Explored
+
+- SAP PowerDesigner
+- phpMyAdmin
+- HeidiSQL
+- MATLAB
+- React Native Expo
+- Framer
+- Svelte
+- TypeScript
+- Unity
+
+---
+
+## 💼 Featured Projects
+
+Here are some of my personal projects and creative experiments.
+
+| Project | Description | Technology |
+|:---|:---|:---|
+| 🎵 [Playlist Spotify Music](https://github.com/miawmeow1/Playlist-Spotify-Music) | A music playlist template featuring MP3 and YouTube sources. | JavaScript |
+| 🍜 [Playlist Joox Music](https://github.com/miawmeow1/Playlist-Joox-Music) | A personal music playlist collection. | HTML |
+| 🎂 [Happy Birthday To Me](https://github.com/miawmeow1/Happy-Birtday-To-Me) | A personal birthday greeting and self-reflection card. | HTML |
+| 🌸 [Flowers.Github.io](https://github.com/miawmeow1/Flowers.Github.io) | An interactive digital flower and romantic animation project. | HTML, CSS, JavaScript |
+| 🐱 [miawmeow1](https://github.com/miawmeow1/miawmeow1) | GitHub profile configuration and personal branding. | HTML |
+
+---
+
+## 🔭 Current Focus
+
+### 📚 RuangLes — Private Tutoring Service Information System
+
+Exploring full-stack web development through a private tutoring service information system.
+
+**Core development areas:**
+
+- User authentication and registration.
+- Student registration and tutoring packages.
+- Learning schedules and calendar management.
+- Payment information.
+- Learning progress and task management.
+- Frontend and backend integration.
+
+My goal is to understand how different components of an information system work together to create a functional application.
+
+---
+
+## 🌱 Currently Learning
+
+- Laravel & Backend Development
+- React Native Expo
+- Software Engineering Principles
+- Database Management & SQL
+- Data Analysis
+- UI/UX Design
+- Full-Stack Web Development
+
+---
+
+## 🤝 Collaboration & Interests
+
+I'm interested in collaborating on projects related to:
+
+- Web and application development.
+- Database design and management.
+- Information system development.
+- Data-driven applications.
+- Creative digital experiences.
+
+I'm always open to exchanging ideas, learning from other developers, and exploring new opportunities.
+
+---
+
+## 🎮 Beyond the Code
+
+Technology is only one part of my interests.
+
+When I'm away from my editor, I enjoy:
+
+- 📚 Reading books and discovering new perspectives.
+- ✍️ Writing journals, short stories, and creative ideas.
+- 🎮 Playing Steam games and exploring immersive worlds.
+- 🎨 Digital illustration, visual design, and creative aesthetics.
+- 🎧 Exploring music and building personal playlists.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miawmeow1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miawmeow1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miawmeow1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/an-nisaa-nurrahman-536656314/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anisanur01767@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/coffeweekend24" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/inmekitty.core/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://web.facebook.com/anisa.nur.7583992/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.youtube.com/@zepekasa" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Keep learning, keep creating, and let every project become part of your growth."</i>
+  <br/>
+  ✨ Built with curiosity, creativity, and continuous learning.
+</p>
