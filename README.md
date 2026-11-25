@@ -171,7 +171,7 @@ When I'm away from my editor, I enjoy:
   <a href="https://x.com/coffeweekend24" target="_blank">
     <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" alt="X" />
   </a>
-  <a href="https://www.instagram.com/inmekitty.core/" target="_blank">
+  <a href="https://www.instagram.com/nisadaily.life/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://web.facebook.com/anisa.nur.7583992/" target="_blank">
